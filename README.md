@@ -4,8 +4,8 @@ Dự án này được tạo ra để lưu trữ các bài tập tự học Reac
 
 
 ## Các chức năng đã học được
-- Tạo cấu trúc thư mục Component, chia components cho clear,
-- Tách file để code trông sạch
-- render hình ảnh, dữ liệu động
-- sử dụng destructuring, spread operator, named export, default export
-- thao tác onclick 
+- học tạo cấu trúc thư mục Component, chia components cho clear,
+- học Tách file để code trông sạch
+- học render hình ảnh, dữ liệu động
+- học destructuring, spread operator, named export, default export
+- học thao tác onclick 
